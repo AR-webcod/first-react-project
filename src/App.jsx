@@ -46,7 +46,7 @@ let App = () => {
 
         <div className="product-grid">
           <div className="product-card">
-            <img width="50%" height="50%" src="./public/watch1.png" alt="" />
+            <img width="50%" height="50%" src="/watch1.png" alt="" />
             <hr />
             <h3>Stainless Steel</h3>
             <p>Classic stainless steel watch with premium finishing.</p>
@@ -54,7 +54,7 @@ let App = () => {
           </div>
 
           <div className="product-card">
-            <img width="50%" height="50%" src="./public/watch2.png" alt="" />
+            <img width="50%" height="50%" src="/watch2.png" alt="" />
             <hr />
             <h3>Couple</h3>
             <p>Two hearts, one time elegant couple watches.</p>
@@ -62,7 +62,7 @@ let App = () => {
           </div>
 
           <div className="product-card">
-            <img width="50%" height="50%" src="./public/watch3.jpg" alt="" />
+            <img width="50%" height="50%" src="/watch3.jpg" alt="" />
             <hr />
             <h3>Smart Watch</h3>
             <p>Smart looks with modern innovation & performance.</p>
