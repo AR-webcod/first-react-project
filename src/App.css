@@ -63,7 +63,7 @@ ul {
 /* HERO */
 .hero {
     height: 120vh;
-    background: url("./public/hero.jpg");
+    background: url("/hero.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
